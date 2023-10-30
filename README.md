@@ -7,7 +7,6 @@
 <h2 align="center">The Code Artisan</h2>
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-<br /><br />
 
 - 🔭 I’m currently working on **my MERN Stack Projects**
 
@@ -19,7 +18,7 @@
 
 - 📫 How to reach me **priyansh.180804@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><br/><br/>Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/priyansh-patel-1570b0251/" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
