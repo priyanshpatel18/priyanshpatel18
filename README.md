@@ -7,6 +7,7 @@
 <h2 align="center">The Code Artisan</h2>
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<br /><br />
 
 - 🔭 I’m currently working on **my MERN Stack Projects**
 
