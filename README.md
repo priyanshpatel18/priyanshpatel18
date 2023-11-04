@@ -30,25 +30,23 @@
 <p align="left">
     <img height="35" width="50" src="https://skillicons.dev/icons?i=html" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=css" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" /> -->
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
     <img height="35" width="50" src="https://skillicons.dev/icons?i=c" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=git" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=jest" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=webpack" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=jest" /> -->
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=webpack" /> -->
     <img height="35" width="50" src="https://skillicons.dev/icons?i=nodejs" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=express" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" /> -->
     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=md" /> -->
 </p>
 
 <br/><br/><br/>
