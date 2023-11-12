@@ -31,7 +31,7 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=html" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=css" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" /> -->
     <img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
@@ -45,7 +45,7 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" /> -->
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=md" /> -->
 </p>
 
