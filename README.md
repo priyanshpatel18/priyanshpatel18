@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **enhancing my portfolio as a full stack developer.**
 
-- 💬 Ask me about **MERN Stack and Data Structures and Algorithms**
+- 💬 Ask me about **MERN Stack Development and Data Structures and Algorithms**
 
 - 📫 How to reach me **priyansh.180804@gmail.com**
 
