@@ -1,16 +1,13 @@
-# ![MasterHead](https://images.unsplash.com/photo-1696703011732-19d224d2beb2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2638&q=80)
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Priyansh!;Nice+to+meet+you!&center=true&size=30&color=29d2a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Priyansh!;Nice+to+meet+you!&center=true&size=30&color=2396ED">
 </h1>
-
 <h2 align="center">The Code Artisan</h2>
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m currently working on **my MERN Stack Projects**
+- 🔭 I’m currently working on **MERN Stack Projects**
 
-- 🌱 I’m currently learning **Graph QL**
+- 🌱 I’m currently learning **Docker**
 
 - 🤝 I’m looking for help with **enhancing my portfolio as a full stack developer.**
 
@@ -31,22 +28,26 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=html" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=css" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" /> -->
     <img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=c" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=git" />
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=jest" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=webpack" /> -->
     <img height="35" width="50" src="https://skillicons.dev/icons?i=nodejs" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=express" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" /> -->
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=md" /> -->
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" /> -->
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=jest" /> -->
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=webpack" /> -->
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=ai" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
 </p>
 
 <br/><br/><br/>
