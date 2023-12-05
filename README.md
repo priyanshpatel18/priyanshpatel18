@@ -1,8 +1,4 @@
 <h1 align="center">
-    <img src="name.svg" alt="Priyansh Patel" />
-</h1>
-
-<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Priyansh!;Nice+to+meet+you!&center=true&size=30&color=2396ED">
 </h1>
 <h2 align="center">The Code Artisan</h2>
