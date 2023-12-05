@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/priyanshpatel18/priyanshpatel18/master/name.svg" alt="Priyansh Patel" />
+    <img src="name.svg" alt="Priyansh Patel" />
 </h1>
 
 <h1 align="center">
