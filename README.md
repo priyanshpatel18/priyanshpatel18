@@ -18,9 +18,11 @@
 <h3 align="left"><br/><br/>Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/priyansh-patel-1570b0251/" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/priyansh_ptl18" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 <br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🛠 Languages & Tools
 
