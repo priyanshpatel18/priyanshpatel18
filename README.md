@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m looking for help with **enhancing my portfolio as a full stack developer.**
 
@@ -43,6 +43,8 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=figma" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=androidstudio" />
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" /> -->
