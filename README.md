@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web 3 Projects**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Next JS**
 
 - 🤝 I’m looking for help with **enhancing my portfolio as a full stack developer.**
 
@@ -40,11 +40,13 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
+<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" /> -->
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=solidity" />
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=kubernetes" /> -->
