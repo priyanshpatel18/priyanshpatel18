@@ -40,8 +40,8 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" /> -->
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" />
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" /> -->
     <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
