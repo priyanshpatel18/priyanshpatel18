@@ -47,6 +47,7 @@
 <p align="left">
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=redis" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
