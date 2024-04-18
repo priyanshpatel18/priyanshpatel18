@@ -51,13 +51,20 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+## DevOps
+<p>
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />
+</p>
+
 ## Tools
 <p align="left">
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=git" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=figma" />
+    <img height="35" width="35" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=ai" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
