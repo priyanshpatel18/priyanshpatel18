@@ -5,15 +5,15 @@
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m currently working on **Next Projects**
+- I’m currently working on **Next Projects**
 
-- 🌱 I’m currently learning **Next JS**
+- I’m currently learning **Next JS**
 
-- 🤝 I’m looking for help with **enhancing my portfolio as a full stack developer.**
+- I’m looking for help with **enhancing my portfolio as a full stack developer.**
 
-- 💬 Ask me about **Full Stack Development**
+- Ask me about **Full Stack Development**
 
-- 📫 How to reach me **priyansh.180804@gmail.com**
+- How to reach me **priyansh.180804@gmail.com**
 
 ## Connect with me:
 <p align="left">
@@ -78,6 +78,6 @@
 
 <div>      
   <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanshpatel18&show_icons=true&theme=dark" alt="My GitHub Stats"/>
-  <br/><br/>
-  <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpatel18&theme=dark&layout=compact"/>
+<!--   <br/><br/> -->
+<!--   <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpatel18&theme=dark&layout=compact"/> -->
 </div>
