@@ -49,6 +49,7 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=redis" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
 ## DevOps
@@ -57,9 +58,18 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=k8s" />
 </p>
 
+## Deployment
+<p>
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=aws" />
+    
+</p>
+
 ## Tools
 <p align="left">
     <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=notion" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=git" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
@@ -70,8 +80,6 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=kubernetes" /> -->
 <!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=d3" /> -->
 </p>
 
