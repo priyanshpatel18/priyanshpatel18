@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- I’m currently working on **Next Projects**
+- I’m currently **building Projcts**
 
-- I’m currently learning **Next JS**
+- I’m currently learning **to ship products**
 
-- I’m looking for help with **enhancing my portfolio as a full stack developer.**
+- I’m looking for help with **sales and marketing**
 
 - Ask me about **Full Stack Development**
 
