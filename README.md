@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- I’m currently **building Projcts**
+- I’m currently **building Projects**
 
 - I’m currently learning **to ship products**
 
