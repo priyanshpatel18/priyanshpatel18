@@ -69,7 +69,7 @@
 
 ## Tools
 <p align="left">
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=rabbitmq" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=pnpm" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=notion" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
