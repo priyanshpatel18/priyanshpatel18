@@ -56,6 +56,8 @@
 <p>
     <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=k8s" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=prometheus" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=grafana" />
 </p>
 
 ## Deployment
