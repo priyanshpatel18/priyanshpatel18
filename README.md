@@ -9,9 +9,9 @@
 
 - I’m currently learning **to ship products**
 
-- I’m looking for help with **sales and marketing**
+- I’m looking for help with **networking**
 
-- Ask me about **Full Stack Development**
+- Ask me about **Full Stack Development & Devops**
 
 - How to reach me **priyansh.180804@gmail.com**
 
