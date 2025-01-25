@@ -30,6 +30,7 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=css" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=rust" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=solidity" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=c" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
