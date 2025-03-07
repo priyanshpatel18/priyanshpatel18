@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- I’m currently **building Projects**
+- I’m currently **building projects**
 
-- I’m currently learning **to ship products**
+- I’m learning **on-chain development**
 
-- I’m looking for help with **networking**
+- I’m looking for help with **web3 development experience**
 
-- Ask me about **Full Stack Development & Devops**
+- Ask me about **Full Stack Development & Web3**
 
 - How to reach me **priyansh.180804@gmail.com**
 
