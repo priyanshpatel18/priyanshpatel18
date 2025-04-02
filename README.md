@@ -7,9 +7,9 @@
 
 - I’m currently **building projects**
 
-- I’m learning **on-chain development**
+- I’m learning **solana development**
 
-- I’m looking for help with **web3 development experience**
+- I’m looking to work on **production-grade systems**
 
 - Ask me about **Full Stack Development & Web3**
 
