@@ -18,7 +18,7 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/priyansh-patel-1570b0251/" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/priyansh_ptl18" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://x.com/priyansh_ptl18" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 <br/>
@@ -26,14 +26,11 @@
 
 ## Languages
 <p align="left">
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=rust" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=html" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=css" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=rust" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=solidity" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=c" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ## Frameworks
@@ -49,8 +46,6 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=redis" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
 ## DevOps
@@ -71,7 +66,7 @@
 ## Tools
 <p align="left">
     <img height="35" width="50" src="https://skillicons.dev/icons?i=pnpm" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=bun" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=notion" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=git" />
@@ -79,17 +74,11 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=figma" />
     <img height="35" width="35" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=ai" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=d3" /> -->
 </p>
 
 <br/><br/><br/>
 
 <div>      
   <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanshpatel18&show_icons=true&theme=dark" alt="My GitHub Stats"/>
-<!--   <br/><br/> -->
-<!--   <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpatel18&theme=dark&layout=compact"/> -->
 </div>
